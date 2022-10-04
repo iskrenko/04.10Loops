@@ -1,0 +1,8 @@
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\04. Clever Lily\bin\Debug\_04.Clever_Lily.exe.config
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\04. Clever Lily\bin\Debug\_04.Clever_Lily.exe
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\04. Clever Lily\bin\Debug\_04.Clever_Lily.pdb
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\04. Clever Lily\obj\Debug\04. Clever Lily.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\04. Clever Lily\obj\Debug\04. Clever Lily.csproj.SuggestedBindingRedirects.cache
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\04. Clever Lily\obj\Debug\04. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\04. Clever Lily\obj\Debug\_04.Clever_Lily.exe
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\04. Clever Lily\obj\Debug\_04.Clever_Lily.pdb

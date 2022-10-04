@@ -1,0 +1,8 @@
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\06.Oscars\bin\Debug\06.Oscars.exe.config
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\06.Oscars\bin\Debug\06.Oscars.exe
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\06.Oscars\bin\Debug\06.Oscars.pdb
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\06.Oscars\obj\Debug\06.Oscars.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\06.Oscars\obj\Debug\06.Oscars.csproj.SuggestedBindingRedirects.cache
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\06.Oscars\obj\Debug\06.Oscars.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\06.Oscars\obj\Debug\06.Oscars.exe
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\06.Oscars\obj\Debug\06.Oscars.pdb

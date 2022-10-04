@@ -1,0 +1,8 @@
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\even odd sum\bin\Debug\even odd sum.exe.config
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\even odd sum\bin\Debug\even odd sum.exe
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\even odd sum\bin\Debug\even odd sum.pdb
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\even odd sum\obj\Debug\even odd sum.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\even odd sum\obj\Debug\even odd sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\even odd sum\obj\Debug\even odd sum.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\even odd sum\obj\Debug\even odd sum.exe
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\even odd sum\obj\Debug\even odd sum.pdb

@@ -1,0 +1,8 @@
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\08.Grisho\bin\Debug\08.Grisho.exe.config
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\08.Grisho\bin\Debug\08.Grisho.exe
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\08.Grisho\bin\Debug\08.Grisho.pdb
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\08.Grisho\obj\Debug\08.Grisho.csproj.AssemblyReference.cache
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\08.Grisho\obj\Debug\08.Grisho.csproj.SuggestedBindingRedirects.cache
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\08.Grisho\obj\Debug\08.Grisho.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\08.Grisho\obj\Debug\08.Grisho.exe
+C:\Users\kosta\source\repos\iskrenko\ConsoleAppucha\04.10Loops\08.Grisho\obj\Debug\08.Grisho.pdb
